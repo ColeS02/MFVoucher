@@ -1,0 +1,10 @@
+name: MFVoucher
+version: '${project.version}'
+main: com.unclecole.mfvoucher.MFVoucher
+api-version: 1.20
+prefix: MFVoucher
+authors: [ UncleCole ]
+commands:
+  withdraw:
+  xpwithdraw:
+  voucher:

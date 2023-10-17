@@ -1,0 +1,46 @@
+ClaimWithdraw:
+  Name: "&f&lNote > %amount%"
+  Lore:
+    - "&c&lPenis"
+    - "&f&lBIGGER PENIS"
+    - "dick"
+  Material: PAPER
+  CustomModelData: -1
+  Data: -1
+  Enchanted: true
+MoneyWithdraw:
+  Name: "&f&lNote > %amount%"
+  Lore:
+    - "&c&lPenis"
+    - "&f&lBIGGER PENIS"
+    - "dick"
+  Material: PAPER
+  CustomModelData: -1
+  Data: -1
+  Enchanted: true
+XPWithdraw:
+  Name: "&f&lNote > %amount%"
+  Lore:
+    - "&c&lPenis"
+    - "&f&lBIGGER PENIS"
+    - "dick"
+  Material: PAPER
+  CustomModelData: -1
+  Data: -1
+  Enchanted: true
+
+
+Vouchers:
+    '1':
+      Name: "&f&lNote > %amount%"
+      Lore:
+        - "&c&lPenis"
+        - "&f&lBIGGER PENIS"
+        - "dick"
+      Material: PAPER
+      CustomModelData: -1
+      Data: -1
+      Enchanted: true
+      commands:
+        - "bc hello"
+        - "eco give %player% 100"
